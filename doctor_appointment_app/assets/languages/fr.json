@@ -1,0 +1,24 @@
+{
+  "welcome": "Bienvenue",
+  "SignIn_text": "Sign in",
+  "Email": "Email 2",
+  "Password": "Password",
+  "Forget_passwordKey": "Forget password",
+  "settingsKey":"Parameters",
+
+  
+  "login": "login",
+  "SocialsKey": "Or continue with social account",
+  "apperanceKey":"Apparence",
+  "apperanceTextKey":"Choisissez votre préférence de thème clair ou sombre",
+
+  "languageKey":"Langue",
+  "languageTextKey":"Choisissez votre préférence de langue"
+
+
+
+
+
+
+
+}

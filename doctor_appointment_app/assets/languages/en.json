@@ -1,0 +1,42 @@
+{
+  "welcome": "welcome",
+  "SignInTextKey": "Sign in text",
+  "registerKey": "Sign in",
+  "Email": "Email",
+  "Password": "Password",
+  "Forget_passwordKey": "Forget password",
+  "login": "login",
+  "alreadyregisteredKey": "Already registered?",
+  "youDontHaveAccountKey": "You don't have an account",
+  "signUp": "sign up",
+  "introKey":"system management appoinment",
+
+  "signInTextKey":"login in",
+  "somethingWentWrongKey":"something went wrong",
+  "forgetpasswordKey":"Forget password",
+  "passwordConditionKey":"password Condition Key",
+  "passwordRequireKey":"password is Required",
+  "emailRequireKey":"email is Required",
+  "EmailErrorKey":"EmailErrorKey",
+  "usernameKey":"Username",
+  "backHomeKey":"Back home",
+  "settingsKey":"Settings",
+
+
+  "usernameRequireKey":"username is Required",
+  "socialsKey": "Or continue with social account",
+  "incoming":"Incoming Feature",
+
+  "apperanceKey":"Appearance",
+  "apperanceTextKey":"Choose your light or dark theme preference",
+
+  "languageKey":"Language",
+  "languageTextKey":"Choose your language preference",
+
+  "credential":"incorrect credential",
+  "bookAppoinmentKey":"Book Appoinment"
+
+   
+}
+
+
